@@ -1,5 +1,5 @@
 include base
 include hadoop
-include hbase
+#include hbase
 include avahi
 include cascading
